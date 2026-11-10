@@ -26,26 +26,6 @@ Clique no botão Adivinhar.
 Siga as dicas apresentadas na tela.
 Continue tentando até descobrir o número secreto!
 Clique em Reiniciar para começar uma nova partida.
-📂 Estrutura do projeto
-text
-jogo-adivinhacao/
-│
-├── index.html
-└── README.md
-
-💻 Como executar o projeto
-Faça o download ou clone este repositório:
-bash
-git clone https://github.com/SEU-USUARIO/jogo-adivinhacao.git
-
-Entre na pasta do projeto.
-Abra o arquivo index.html em seu navegador.
-
-Não é necessário instalar dependências ou configurar um servidor.
-
-🌐 Acesse o projeto
-
-🔗 Link do jogo: Adicione aqui o endereço do GitHub Pages quando publicar.
 
 📚 Objetivo educacional
 
@@ -58,6 +38,6 @@ Variáveis e funções JavaScript.
 Estruturas condicionais.
 Geração de números aleatórios.
 
-Desenvolvido com 💜 utilizando HTML, CSS e JavaScript.
+Desenvolvido utilizando HTML, CSS e JavaScript.
 
 ⭐ Se gostou do projeto, deixe uma estrela no repositório!
